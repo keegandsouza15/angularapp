@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo hello thdere
+echo hello thderdfe
 ln -s /node_modules /home/site/wwwroot/node_modules
 
 node --version
