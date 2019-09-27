@@ -7,5 +7,7 @@ node --version
 npm --version
 ln -s /node_modules /home/site/wwwroot/node_modules
 
-ng serve
+
+ng serve --port 8080
+
 echo linking 
